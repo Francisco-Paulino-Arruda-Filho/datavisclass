@@ -12,6 +12,7 @@
 [index08.html](basic/index08.html) — script em arquivo externo ([teste.js](basic/teste.js))<br>
 [index09.html](basic/index09.html) — SVG<br>
 [index10.html](basic/index10.html) — jQuery<br>
+[index11.html](basic/index11.html) — jQuery<br>
 [grafico_genero.html](basic/grafico_genero.html) — Gráfico gênero<br>
 
 ### Atividades em laboratório
